@@ -1,4 +1,4 @@
-import { StyledBox } from "./styles"
+import { StyledBox } from './styles'
 
 const BoxImage = () => {
   return(
